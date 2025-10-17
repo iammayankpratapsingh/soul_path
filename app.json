@@ -1,16 +1,17 @@
 {
   "expo": {
-    "name": "soul_mate",
+    "name": "Soul Path",
     "slug": "soul_mate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "statusBarStyle": "dark",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FCEDED"
     },
     "ios": {
       "supportsTablet": true
@@ -18,10 +19,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#FCEDED"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.soul_mate"
     },
     "web": {
       "favicon": "./assets/favicon.png"
