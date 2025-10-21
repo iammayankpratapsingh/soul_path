@@ -35,10 +35,6 @@ function DrawerNavigator() {
         drawerContentStyle: {
           backgroundColor: colors.lightPink,
         },
-        // Ensure screens behind the drawer share the same solid background
-        sceneContainerStyle: {
-          backgroundColor: colors.lightPink,
-        },
         drawerActiveTintColor: colors.pink,
         drawerInactiveTintColor: colors.gray,
         swipeEnabled: true,
