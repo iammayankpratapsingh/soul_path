@@ -4,10 +4,14 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Tabs from './Tabs';
 import SettingsScreen from '../screens/SettingsScreen';
 import SpreadReadingScreen from '../screens/SpreadReadingScreen';
+import SignUpScreen from '../screens/SignUpScreen';
+import SignInScreen from '../screens/SignInScreen';
 import DrawerContent from '../components/DrawerContent';
 import { colors } from '../theme/colors';
 
 export type RootStackParamList = {
+  SignUp: undefined;
+  SignIn: undefined;
   MainDrawer: undefined;
   SpreadReading: { spreadTitle: string };
 };
@@ -50,6 +54,8 @@ function DrawerNavigator() {
 export default function RootNavigator() {
   return (
     <Stack.Navigator screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="SignUp" component={SignUpScreen} />
+      <Stack.Screen name="SignIn" component={SignInScreen} />
       <Stack.Screen name="MainDrawer" component={DrawerNavigator} />
       <Stack.Screen name="SpreadReading" component={SpreadReadingScreen} />
     </Stack.Navigator>
