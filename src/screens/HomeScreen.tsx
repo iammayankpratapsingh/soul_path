@@ -1,8 +1,8 @@
 import React from 'react';
-import { View, Text, StyleSheet, ScrollView, Dimensions, Pressable } from 'react-native';
+import { View, StyleSheet, ScrollView, Dimensions } from 'react-native';
 import SpreadCard from '../components/SpreadCard';
+import Header from '../components/Header';
 import { colors } from '../theme/colors';
-import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import type { DrawerNavigationProp } from '@react-navigation/drawer';
 import type { DrawerParamList, RootStackParamList } from '../navigation/RootNavigator';
@@ -51,12 +51,7 @@ export default function HomeScreen() {
   const navigation = useNavigation<HomeScreenNavigationProp>();
   return (
     <View style={styles.container}>
-      <View style={styles.header}>
-        <Text style={styles.title}>Soul Path Lights</Text>
-        <Pressable accessibilityRole="button" onPress={() => navigation.openDrawer()} hitSlop={12}>
-          <Ionicons name="settings-sharp" size={22} color={colors.gray} />
-        </Pressable>
-      </View>
+      <Header title="Soul Path Lights" />
 
       {/* Background image removed as requested */}
 
@@ -83,20 +78,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: colors.lightPink,
   },
-  header: {
-    paddingTop: 54,
-    paddingHorizontal: 16,
-    paddingBottom: 12,
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'space-between',
-  },
-  title: {
-    color: colors.headingColor,
-    fontSize: 28,
-    fontWeight: '800',
-  },
-  // backgroundLotus removed
   scrollContent: {
     paddingHorizontal: 12,
     paddingBottom: 24,
