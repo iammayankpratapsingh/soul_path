@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F1.png?alt=media",
+    "card_name": "Pramatta",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Illusion, new beginnings, innocence, leap of faith",
+    "reversed_keywords": "Foolishness, disconnection, illusion, aimlessness"
+  },
+  {
+    "id": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F2.png?alt=media",
+    "card_name": "Rishi",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Willpower, manifestation, vision, inner tools",
+    "reversed_keywords": "Manipulation, illusion of power, blocked intention"
+  },
+  {
+    "id": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F3.png?alt=media",
+    "card_name": "Mahadevi",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Intuition, inner wisdom, sacred mystery",
+    "reversed_keywords": "Secrets, confusion, blocked intuition"
+  },
+  {
+    "id": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F4.png?alt=media",
+    "card_name": "Aditi",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Creation, motherly love, nurturing protection",
+    "reversed_keywords": "Smothering, over-protection, blocked creativity"
+  },
+  {
+    "id": 5,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F5.png?alt=media",
+    "card_name": "Mahadev",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Structure, divine authority, protector energy",
+    "reversed_keywords": "Tyranny, rigidity, misused power"
+  },
+  {
+    "id": 6,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F6.png?alt=media",
+    "card_name": "Guru",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Teacher, wisdom, tradition, initiation",
+    "reversed_keywords": "Dogma, manipulation, spiritual confusion"
+  },
+  {
+    "id": 7,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F7.png?alt=media",
+    "card_name": "Yugal",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Sacred union, divine love, mirrored self",
+    "reversed_keywords": "Disharmony, separation, imbalance"
+  },
+  {
+    "id": 8,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F8.png?alt=media",
+    "card_name": "Vahana",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Will in motion, spiritual momentum, dharmic drive",
+    "reversed_keywords": "Lack of control, misdirected energy, recklessness"
+  },
+  {
+    "id": 9,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F9.png?alt=media",
+    "card_name": "Vajra",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Strength, divine power, resilience, spiritual might",
+    "reversed_keywords": "Abuse of power, inner weakness, misplaced anger"
+  },
+  {
+    "id": 10,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F10.png?alt=media",
+    "card_name": "Tapasvi",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Solitude, inner journey, meditation, wisdom",
+    "reversed_keywords": "Isolation, withdrawal, avoidance"
+  },
+  {
+    "id": 11,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F11.png?alt=media",
+    "card_name": "Chakra",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Cycle, fate, karma, divine timing",
+    "reversed_keywords": "Stagnation, resistance to change, misfortune"
+  },
+  {
+    "id": 12,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F12.png?alt=media",
+    "card_name": "Nyaya",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Justice, fairness, balance, truth",
+    "reversed_keywords": "Injustice, imbalance, dishonesty"
+  },
+  {
+    "id": 13,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F13.png?alt=media",
+    "card_name": "Brahmachari",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Surrender, sacrifice, higher perspective",
+    "reversed_keywords": "Stubbornness, martyrdom, escapism"
+  },
+  {
+    "id": 14,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F14.png?alt=media",
+    "card_name": "Kaal",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Endings, transformation, impermanence",
+    "reversed_keywords": "Fear of change, stagnation, attachment"
+  },
+  {
+    "id": 15,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F15.png?alt=media",
+    "card_name": "Saamya",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Harmony, balance, alchemy, healing",
+    "reversed_keywords": "Instability, extremes, imbalance"
+  },
+  {
+    "id": 16,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F16.png?alt=media",
+    "card_name": "Avidya",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Ignorance, shadow, bondage, illusion",
+    "reversed_keywords": "Freedom, awareness, confronting truth"
+  },
+  {
+    "id": 17,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F17.png?alt=media",
+    "card_name": "Vidyut",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Sudden insight, revelation, collapse of illusion",
+    "reversed_keywords": "Chaos, destruction, fear of truth"
+  },
+  {
+    "id": 18,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F18.png?alt=media",
+    "card_name": "Akashganga",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Hope, cosmic light, divine promise",
+    "reversed_keywords": "False hope, delusion, waiting endlessly"
+  },
+  {
+    "id": 19,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F19.png?alt=media",
+    "card_name": "Maya mareechika",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Illusion, enchantment, emotional landscape",
+    "reversed_keywords": "Confusion, deception, dream world trap"
+  },
+  {
+    "id": 20,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F20.png?alt=media",
+    "card_name": "Surya",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Clarity, truth, vitality, radiant joy",
+    "reversed_keywords": "Ego, burnout, overexposure"
+  },
+  {
+    "id": 21,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F21.png?alt=media",
+    "card_name": "Shankha",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Awakening, trumpet of truth, inner call",
+    "reversed_keywords": "Judgment, harshness, resistance to change"
+  },
+  {
+    "id": 22,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F22.png?alt=media",
+    "card_name": "Nirvana",
+    "type": "Maha Mandala – Prarabdha",
+    "keywords": "Liberation, completion, cosmic oneness",
+    "reversed_keywords": "Incompletion, unresolved karma, missed potential"
+  },
+  {
+    "id": 23,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F23.png?alt=media",
+    "card_name": "Bīja Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Spiritual spark, calling, dharmic seed",
+    "reversed_keywords": "False starts, blocked inspiration, lost purpose"
+  },
+  {
+    "id": 24,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F24.png?alt=media",
+    "card_name": "Dwait Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Choice, tension of duty, moral crossroads",
+    "reversed_keywords": "Indecision, inner conflict, dual loyalties"
+  },
+  {
+    "id": 25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F25.png?alt=media",
+    "card_name": "Trikāl Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Karmic lineage, growth of purpose",
+    "reversed_keywords": "Living in the past, dharmic stagnation"
+  },
+  {
+    "id": 26,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F26.png?alt=media",
+    "card_name": "Chaturbhuj Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Structure, ritual, foundational dharma",
+    "reversed_keywords": "Rigidity, resistance to change, dry spirituality"
+  },
+  {
+    "id": 27,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F27.png?alt=media",
+    "card_name": "Panchatattva Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Trial by fire, initiation crisis",
+    "reversed_keywords": "Avoidance of responsibility, test failed"
+  },
+  {
+    "id": 28,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F28.png?alt=media",
+    "card_name": "Shadchakra Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Inner balance, energy alignment, flow state",
+    "reversed_keywords": "Blockages, disconnection, energy stagnation"
+  },
+  {
+    "id": 29,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F29.png?alt=media",
+    "card_name": "Saptarishi Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Wisdom, higher learning, sacred guidance",
+    "reversed_keywords": "Dogma, false guidance, arrogance"
+  },
+  {
+    "id": 30,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F30.png?alt=media",
+    "card_name": "Ashtanga Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Discipline, karma yoga, daily devotion",
+    "reversed_keywords": "Rigidity, burnout, spiritual fatigue"
+  },
+  {
+    "id": 31,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F31.png?alt=media",
+    "card_name": "Navagraha Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Culmination, celestial alignment, destiny",
+    "reversed_keywords": "Astrological disturbance, overdependence on fate"
+  },
+  {
+    "id": 32,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F32.png?alt=media",
+    "card_name": "Mahāsiddhi Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Mastery, realized potential, divine gifts",
+    "reversed_keywords": "Hubris, misuse of power, spiritual bypass"
+  },
+  {
+    "id": 33,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F33.png?alt=media",
+    "card_name": "Yuvaraj Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Initiate, seeker, learning phase",
+    "reversed_keywords": "Naivety, impatience, impulsiveness"
+  },
+  {
+    "id": 34,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F34.png?alt=media",
+    "card_name": "Rajdoot Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Strategist, messenger, active movement",
+    "reversed_keywords": "Recklessness, chaos, restlessness"
+  },
+  {
+    "id": 35,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F35.png?alt=media",
+    "card_name": "Rajshakti Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Nurturing authority, intuitive leadership",
+    "reversed_keywords": "Overwhelm, possessiveness, emotional imbalance"
+  },
+  {
+    "id": 36,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F36.png?alt=media",
+    "card_name": "Rajpurush Danda",
+    "type": "Laghu Mandala – Danda (Dharma)",
+    "keywords": "Sovereignty, vision, responsible leadership",
+    "reversed_keywords": "Tyranny, ego, loss of dharma"
+  },
+  {
+    "id": 37,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F37.png?alt=media",
+    "card_name": "Swarna Kāna Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Wealth seed, latent value",
+    "reversed_keywords": "Blocked potential, undervaluing self"
+  },
+  {
+    "id": 38,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F38.png?alt=media",
+    "card_name": "Dwait Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Material choice, dual priorities",
+    "reversed_keywords": "Imbalance, indecisiveness in finance"
+  },
+  {
+    "id": 39,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F39.png?alt=media",
+    "card_name": "Trikāl Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Ancestral wealth, business growth",
+    "reversed_keywords": "Inherited burden, karmic financial loops"
+  },
+  {
+    "id": 40,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F40.png?alt=media",
+    "card_name": "Chaturbhuj Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Stability, household, financial security",
+    "reversed_keywords": "Stagnation, clinging to possessions"
+  },
+  {
+    "id": 41,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F41.png?alt=media",
+    "card_name": "Panchatattva Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Loss, debt, economic struggle",
+    "reversed_keywords": "Fear of scarcity, mismanagement"
+  },
+  {
+    "id": 42,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F42.png?alt=media",
+    "card_name": "Shadchakra Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Inner balance, energy alignment, flow state",
+    "reversed_keywords": "Blockages, disconnection, energy stagnation"
+  },
+  {
+    "id": 43,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F43.png?alt=media",
+    "card_name": "Saptarishi Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Wisdom, higher learning, sacred guidance",
+    "reversed_keywords": "Dogma, false guidance, arrogance"
+  },
+  {
+    "id": 44,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F44.png?alt=media",
+    "card_name": "Ashtanga Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Discipline, karma yoga, daily devotion",
+    "reversed_keywords": "Rigidity, burnout, spiritual fatigue"
+  },
+  {
+    "id": 45,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F45.png?alt=media",
+    "card_name": "Navagraha Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Culmination, celestial alignment, destiny",
+    "reversed_keywords": "Astrological disturbance, overdependence on fate"
+  },
+  {
+    "id": 46,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F46.png?alt=media",
+    "card_name": "Mahāsiddhi Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Mastery, realized potential, divine gifts",
+    "reversed_keywords": "Hubris, misuse of power, spiritual bypass"
+  },
+  {
+    "id": 47,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F47.png?alt=media",
+    "card_name": "Yuvaraj Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Initiate, seeker, learning phase",
+    "reversed_keywords": "Naivety, impatience, impulsiveness"
+  },
+  {
+    "id": 48,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F48.png?alt=media",
+    "card_name": "Rajdoot Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Strategist, messenger, active movement",
+    "reversed_keywords": "Recklessness, chaos, restlessness"
+  },
+  {
+    "id": 49,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F49.png?alt=media",
+    "card_name": "Rajshakti Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Nurturing authority, intuitive leadership",
+    "reversed_keywords": "Overwhelm, possessiveness, emotional imbalance"
+  },
+  {
+    "id": 50,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F50.png?alt=media",
+    "card_name": "Rajpurush Kosh",
+    "type": "Laghu Mandala – Kosh (Artha)",
+    "keywords": "Sovereignty, vision, responsible leadership",
+    "reversed_keywords": "Tyranny, ego, loss of dharma"
+  },
+  {
+    "id": 51,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F51.png?alt=media",
+    "card_name": "Boond Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "First feeling, spark of love",
+    "reversed_keywords": "Emotional immaturity, infatuation, fleeting attraction"
+  },
+  {
+    "id": 52,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F52.png?alt=media",
+    "card_name": "Dwait Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Relationship tension, longing",
+    "reversed_keywords": "Co-dependence, heartbreak, dual emotions"
+  },
+  {
+    "id": 53,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F53.png?alt=media",
+    "card_name": "Trikāl Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Celebration, emotional growth",
+    "reversed_keywords": "Overindulgence, emotional burnout"
+  },
+  {
+    "id": 54,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F54.png?alt=media",
+    "card_name": "Chaturbhuj Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Emotional stability, sacred bonds",
+    "reversed_keywords": "Emotional stagnation, denial of feelings"
+  },
+  {
+    "id": 55,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F55.png?alt=media",
+    "card_name": "Panchatattva Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Heartbreak, sorrow, unmet desire",
+    "reversed_keywords": "Denial of grief, clinging to past emotion"
+  },
+  {
+    "id": 56,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F56.png?alt=media",
+    "card_name": "Shadchakra Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Inner balance, energy alignment, flow state",
+    "reversed_keywords": "Blockages, disconnection, energy stagnation"
+  },
+  {
+    "id": 57,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F57.png?alt=media",
+    "card_name": "Saptarishi Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Wisdom, higher learning, sacred guidance",
+    "reversed_keywords": "Dogma, false guidance, arrogance"
+  },
+  {
+    "id": 58,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F58.png?alt=media",
+    "card_name": "Ashtanga Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Discipline, karma yoga, daily devotion",
+    "reversed_keywords": "Rigidity, burnout, spiritual fatigue"
+  },
+  {
+    "id": 59,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F59.png?alt=media",
+    "card_name": "Navagraha Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Culmination, celestial alignment, destiny",
+    "reversed_keywords": "Astrological disturbance, overdependence on fate"
+  },
+  {
+    "id": 60,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F60.png?alt=media",
+    "card_name": "Mahāsiddhi Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Mastery, realized potential, divine gifts",
+    "reversed_keywords": "Hubris, misuse of power, spiritual bypass"
+  },
+  {
+    "id": 61,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F61.png?alt=media",
+    "card_name": "Yuvaraj Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Initiate, seeker, learning phase",
+    "reversed_keywords": "Naivety, impatience, impulsiveness"
+  },
+  {
+    "id": 62,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F62.png?alt=media",
+    "card_name": "Rajdoot Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Strategist, messenger, active movement",
+    "reversed_keywords": "Recklessness, chaos, restlessness"
+  },
+  {
+    "id": 63,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F63.png?alt=media",
+    "card_name": "Rajshakti Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Nurturing authority, intuitive leadership",
+    "reversed_keywords": "Overwhelm, possessiveness, emotional imbalance"
+  },
+  {
+    "id": 64,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F64.png?alt=media",
+    "card_name": "Rajpurush Kamal",
+    "type": "Laghu Mandala – Kamal (Kaama)",
+    "keywords": "Sovereignty, vision, responsible leadership",
+    "reversed_keywords": "Tyranny, ego, loss of dharma"
+  },
+  {
+    "id": 65,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F65.png?alt=media",
+    "card_name": "Sukshm Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Insight spark, awakening call",
+    "reversed_keywords": "Mental chaos, overthinking, disconnection from self"
+  },
+  {
+    "id": 66,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F66.png?alt=media",
+    "card_name": "Dwait Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Mental duality, inner conflict",
+    "reversed_keywords": "Indecision, paralyzed thinking"
+  },
+  {
+    "id": 67,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F67.png?alt=media",
+    "card_name": "Trikāl Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Soul memory, karma cycle",
+    "reversed_keywords": "Clinging to past lives, karmic confusion"
+  },
+  {
+    "id": 68,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F68.png?alt=media",
+    "card_name": "Chaturbhuj Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Mental order, contemplative space",
+    "reversed_keywords": "Dogma, over-structure, mental rigidity"
+  },
+  {
+    "id": 69,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F69.png?alt=media",
+    "card_name": "Panchatattva Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Confusion, loss of clarity",
+    "reversed_keywords": "Mental fog, spiritual disconnection"
+  },
+  {
+    "id": 70,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F70.png?alt=media",
+    "card_name": "Shadchakra Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Inner balance, energy alignment, flow state",
+    "reversed_keywords": "Blockages, disconnection, energy stagnation"
+  },
+  {
+    "id": 71,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F71.png?alt=media",
+    "card_name": "Saptarishi Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Wisdom, higher learning, sacred guidance",
+    "reversed_keywords": "Dogma, false guidance, arrogance"
+  },
+  {
+    "id": 72,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F72.png?alt=media",
+    "card_name": "Ashtanga Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Discipline, karma yoga, daily devotion",
+    "reversed_keywords": "Rigidity, burnout, spiritual fatigue"
+  },
+  {
+    "id": 73,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F73.png?alt=media",
+    "card_name": "Navagraha Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Culmination, celestial alignment, destiny",
+    "reversed_keywords": "Astrological disturbance, overdependence on fate"
+  },
+  {
+    "id": 74,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F74.png?alt=media",
+    "card_name": "Mahāsiddhi Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Mastery, realized potential, divine gifts",
+    "reversed_keywords": "Hubris, misuse of power, spiritual bypass"
+  },
+  {
+    "id": 75,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F75.png?alt=media",
+    "card_name": "Yuvaraj Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Initiate, seeker, learning phase",
+    "reversed_keywords": "Naivety, impatience, impulsiveness"
+  },
+  {
+    "id": 76,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F76.png?alt=media",
+    "card_name": "Rajdoot Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Strategist, messenger, active movement",
+    "reversed_keywords": "Recklessness, chaos, restlessness"
+  },
+  {
+    "id": 77,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F77.png?alt=media",
+    "card_name": "Rajshakti Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Nurturing authority, intuitive leadership",
+    "reversed_keywords": "Overwhelm, possessiveness, emotional imbalance"
+  },
+  {
+    "id": 78,
+    "image": "https://firebasestorage.googleapis.com/v0/b/track-3b833/o/cards%2F78.png?alt=media",
+    "card_name": "Rajpurush Tara",
+    "type": "Laghu Mandala – Tara (Moksha)",
+    "keywords": "Sovereignty, vision, responsible leadership",
+    "reversed_keywords": "Tyranny, ego, loss of dharma"
+  }
+]
