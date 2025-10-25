@@ -7,6 +7,9 @@ import SpreadReadingScreen from '../screens/SpreadReadingScreen';
 import SignUpScreen from '../screens/SignUpScreen';
 import SignInScreen from '../screens/SignInScreen';
 import CardDetailScreen from '../screens/CardDetailScreen';
+import DailyReadingScreen from '../screens/DailyReadingScreen';
+import OneCardDrawScreen from '../screens/OneCardDrawScreen';
+import OneCardResultScreen from '../screens/OneCardResultScreen';
 import DrawerContent from '../components/DrawerContent';
 import { colors } from '../theme/colors';
 
@@ -16,6 +19,9 @@ export type RootStackParamList = {
   MainDrawer: undefined;
   SpreadReading: { spreadTitle: string };
   CardDetail: { card: any };
+  DailyReading: undefined;
+  OneCardDraw: undefined;
+  OneCardResult: { card: any };
 };
 
 export type DrawerParamList = {
@@ -61,6 +67,9 @@ export default function RootNavigator() {
       <Stack.Screen name="MainDrawer" component={DrawerNavigator} />
       <Stack.Screen name="SpreadReading" component={SpreadReadingScreen} />
       <Stack.Screen name="CardDetail" component={CardDetailScreen} />
+      <Stack.Screen name="DailyReading" component={DailyReadingScreen} />
+      <Stack.Screen name="OneCardDraw" component={OneCardDrawScreen} />
+      <Stack.Screen name="OneCardResult" component={OneCardResultScreen} />
     </Stack.Navigator>
   );
 }

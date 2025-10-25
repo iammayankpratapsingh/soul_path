@@ -11,9 +11,16 @@ import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 
 const spreads = [
   {
+    title: 'Daily Reading',
+    description:
+      'A special reading that gives you guidance for the day ahead. Perfect for daily insight and spiritual guidance.',
+    isDaily: true,
+  },
+  {
     title: 'One Card',
     description:
       'A single-card draw for quick guidance. Ideal for daily insight or a direct answer to a focused question.',
+    isOneCard: true,
   },
   {
     title: 'Two Cards',
@@ -62,7 +69,13 @@ export default function HomeScreen() {
             title={s.title} 
             description={s.description}
             onPress={() => {
-              navigation.navigate('SpreadReading', { spreadTitle: s.title });
+              if (s.isDaily) {
+                navigation.navigate('DailyReading');
+              } else if (s.isOneCard) {
+                navigation.navigate('OneCardDraw');
+              } else {
+                navigation.navigate('SpreadReading', { spreadTitle: s.title });
+              }
             }}
           />
         ))}
